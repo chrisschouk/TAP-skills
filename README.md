@@ -53,6 +53,11 @@ These skills are free and stay free. [TAP](https://totalaudiopromo.com) runs the
 campaign: contacts, coverage tracking, reports and approvals. Nothing sends without
 you.
 
+## More skill packs
+
+- [NewsJack-skills](https://github.com/chrisschouk/NewsJack-skills): newsjack the trade press without claiming what is not yours.
+- [SpotCheck-skills](https://github.com/chrisschouk/SpotCheck-skills): vet a playlist before you pay a curator.
+
 ## Licence
 
 MIT. See `LICENSE`. The Total Audio Promo name and logo are not covered. See
