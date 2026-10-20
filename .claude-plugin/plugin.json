@@ -1,0 +1,9 @@
+{
+  "name": "tap-skills",
+  "description": "Agent skills for running a music release campaign: plan, pitch, coverage, handoff.",
+  "version": "0.1.0",
+  "author": "Chris Schofield",
+  "homepage": "https://totalaudiopromo.com",
+  "repository": "https://github.com/chrisschouk/TAP-skills",
+  "license": "MIT"
+}
