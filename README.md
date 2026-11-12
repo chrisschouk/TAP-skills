@@ -5,8 +5,8 @@ Agent skills for running a music release campaign. Free, MIT.
 Four skills that turn an agent into a campaign operator: plan the release, write
 the pitch without inventing facts, log the coverage, and know what to do next.
 
-Built and used inside [Total Audio Promo](https://totalaudiopromo.com), a working
-UK music PR company.
+Built and used inside [Total Audio Promo](https://totalaudiopromo.com), a release
+platform for independent artists.
 
 ## Are you an agent?
 
